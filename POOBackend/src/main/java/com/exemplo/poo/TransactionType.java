@@ -1,4 +1,4 @@
-package com.example.finance.model;
+package com.exemplo.poo.model;
 
 public class TransactionType {
   private Long id;

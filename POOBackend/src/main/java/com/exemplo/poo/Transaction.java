@@ -1,4 +1,4 @@
-package com.example.finance.model;
+package com.exemplo.poo.model;
 
 import java.time.LocalDateTime;
 
