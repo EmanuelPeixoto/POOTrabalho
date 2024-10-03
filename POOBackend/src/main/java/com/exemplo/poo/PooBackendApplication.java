@@ -1,11 +1,12 @@
-package com.example.finance;
+package com.exemplo.poo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FinanceApplication {
-    public static void main(String[] args) {
-        SpringApplication.run(FinanceApplication.class, args);
-    }
+public class PooBackendApplication {
+  public static void main(String[] args) {
+    SpringApplication.run(PooBackendApplication.class, args);
+  }
 }
+

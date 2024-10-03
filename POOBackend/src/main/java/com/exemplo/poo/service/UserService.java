@@ -1,10 +1,9 @@
-package com.example.finance.service;
+package com.exemplo.poo.service;
 
-import com.example.finance.model.User;
-import com.example.finance.repository.DatabaseSimulator;
+import com.exemplo.poo.model.User;
+import com.exemplo.poo.repository.DatabaseSimulator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
 

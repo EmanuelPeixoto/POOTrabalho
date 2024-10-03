@@ -1,11 +1,10 @@
-package com.example.finance.controller;
+package com.exemplo.poo.controller;
 
-import com.example.finance.model.User;
-import com.example.finance.service.UserService;
+import com.exemplo.poo.model.User;
+import com.exemplo.poo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
